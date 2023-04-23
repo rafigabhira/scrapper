@@ -8,7 +8,7 @@
     "cheerio": "^1.0.0-rc.2",
     "create-react-app": "^1.3.3",
     "jsonframe-cheerio": "^3.0.1",
-    "request": "^2.85.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.2"
   },
   "devDependencies": {},
